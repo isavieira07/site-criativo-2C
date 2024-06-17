@@ -1,6 +1,10 @@
-header{
+.cabecalho{
     background-color: #752fb6;
     color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
 }
 
 .cabecalho-imagem{
